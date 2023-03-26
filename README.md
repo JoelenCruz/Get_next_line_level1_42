@@ -2,7 +2,7 @@
 
 ## 1- Clone
 	
-	git clone https://github.com/JoelenCruz/ft_printf_42.git get_next_line_jcruz-da
+	git clone https://github.com/JoelenCruz/get_next_line_42.git get_next_line_jcruz-da
   
 ## 2- Navigate to folder get_next_line_jcruz-da and run make
     
