@@ -7,7 +7,7 @@
 ## 2- Navigate to folder get_next_line_jcruz-da and run make
     
     cd get_next_line_jcruz-da
-   	make
+   	cc get_next_line.c get_next_line_utils.c
 
 ## 3- Objective
 Read a text file line by line. 
