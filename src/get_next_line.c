@@ -78,7 +78,7 @@ char	*get_next_line(int fd)
 	backup = extract(line);
 	return (line);
 }
-/*
+
  int main()
 {
 	int fd = open("a.txt", O_RDONLY);
@@ -90,4 +90,4 @@ char	*get_next_line(int fd)
 	}
 
 	return 0;
-}*/
+}
